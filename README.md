@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Devit Rai, a software developer with a strong interest in building practical, real-world applications. I enjoy working across both front-end and back-end technologies, including JavaScript and Java, and I'm continually expanding my skill set through new projects and learning opportunities. I value collaboration and am always open to connecting with like-minded developers on meaningful projects<br><br>give this in points like 
+Hi, I'm Devit Rai, passionate about software development and building practical, real-world applications. I'm still learning, with a growing interest in both front-end and back-end technologies like JavaScript and Java. I'm always expanding my skills through projects and new learning opportunities, and I enjoy connecting with like-minded developers on meaningful projects where I can learn and grow.
 
 
 # 💻 Tech Stack:
