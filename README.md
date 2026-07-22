@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on a data science project using Python.<br>👯 I'm looking on AI and machine learning projects.<br>🤝 I'm looking for help with model building and data analysis.<br>🌱 I'm currently learning machine learning and deep learning.<br>⚡ Fun fact: I enjoy exploring how AI can solve real-world problems.
+🔭 I'm currently exploring AI-powered applications and full-stack development.<br>👯 I'm looking to collaborate on AI, web development, and open-source projects.<br>🤝 I'm looking for help with model deployment and backend optimization.<br>🌱 I'm currently learning Machine Learning, Deep Learning, and Data Analytics.<br>⚡ Fun fact: I believe the best way to learn is by building projects.
 
 
 # 💻 Tech Stack:
